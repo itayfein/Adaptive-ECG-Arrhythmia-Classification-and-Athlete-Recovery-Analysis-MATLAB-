@@ -1,0 +1,15 @@
+=== Athlete Post-Exercise ECG Report ===
+
+Average Heart Rate: 62.3 bpm — average post-exercise heart rate.
+Heart Rate Range: 29.6–111.3 bpm.
+RMSSD: 0.065 sec — Good HRV.
+SDNN: 0.079 sec — heart-rate variability over the recording.
+QRS Width: 0.079 sec — Normal QRS width.
+Abnormal Beats: 8 out of 1861 beats.
+Abnormal Beat Density: 0.27 beats/min — Low.
+Initial HR: 67.9 bpm.
+Final HR: 60.2 bpm.
+HR Recovery Drop: 7.6 bpm — Moderate heart-rate recovery.
+
+Overall Assessment:
+Normal post-exercise recovery pattern
